@@ -1,7 +1,7 @@
 % Jeremy Hui
-% Explicit finite difference scheme for the heat equation in 2D
+% Explicit finite difference scheme for the diffusion equation in 2D
 % ----------------------------------------------------------------
-% This MATLAB code solves the transient heat conduction through
+% This MATLAB code solves the transient heat diffusion through
 % a rectangular profile with a water duct at constant temperature
 % located at the centre. Note that due to symmetry, only half (left
 % part) of the domain is actually solved.

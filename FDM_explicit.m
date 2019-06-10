@@ -1,4 +1,3 @@
-% Jeremy Hui
 % Explicit finite difference scheme for the diffusion equation in 2D
 % ----------------------------------------------------------------
 % This MATLAB code solves the transient heat diffusion through
